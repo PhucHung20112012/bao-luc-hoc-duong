@@ -1,0 +1,32 @@
+.box{
+    background-color : rgb(255, 255, 255);
+    width : 50%px;
+    border-radius : 10px;
+    font-size: 30px;
+    box-shadow: 5px 5px 10px rgb(132, 129, 126);
+    top: 50%; 
+    left: 50%;
+    position:absolute;
+    transform: translate(-50%, -50%);
+}
+body{
+    font-family:roboto , sans-serif;
+    background-color : rgb(215, 215, 215);
+    text-align: center;
+}
+
+.container{
+    height:100%;
+    display : flex;
+    justify-content: center; 
+    position: relative;
+  position: relative;
+  height: 100vh; /* cao toàn màn hình */
+}
+h1{
+    color: white;
+}
+div div div {
+    margin : 5px;
+}
+
